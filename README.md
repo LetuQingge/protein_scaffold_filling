@@ -19,6 +19,7 @@ I created an env.yml to allow you to run conda create -n <yourenv> --file env.ym
     pip install "tensorflow<2.10"                               # Version matters for running GPU only
     pip install matplotlib
     pip install PyMuPDF
+    pip install reportlab
 
 Instructions retrieved from here: https://www.tensorflow.org/install/pip
 
