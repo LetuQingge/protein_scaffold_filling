@@ -1,8 +1,8 @@
 
-# Deep Learning Approaches to Protein Scaffold Filling
+# Deep Learning Approaches for the Protein Scaffold Filling
 
 Repository for my paper published in 2022 IEEE International Conference on Tools in Artificial Intelligence (ICTAI)
-titled "Deep Learning Approaches to the Protein Scaffold Filling Problem"
+titled "Deep Learning Approaches for the Protein Scaffold Filling Problem"
 
 ## Installing Dependencies:
 Install anaconda or miniconda: https://docs.conda.io/en/latest/miniconda.html
