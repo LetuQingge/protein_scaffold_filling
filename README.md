@@ -1,7 +1,7 @@
 
 # Deep Learning Approaches for the Protein Scaffold Filling
 
-Repository for my paper published in 2022 IEEE International Conference on Tools in Artificial Intelligence (ICTAI)
+Repository for our paper published in 2022 IEEE International Conference on Tools in Artificial Intelligence (ICTAI)
 titled "Deep Learning Approaches for the Protein Scaffold Filling Problem"
 
 ## Installing Dependencies:
